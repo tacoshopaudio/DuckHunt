@@ -1,7 +1,7 @@
 Pebble.addEventListener("showConfiguration",
   function(e) {
     //Load the remote config page
-    Pebble.openURL("http://winterwinter.github.io/DuckHunt/");
+    Pebble.openURL("http://tacoshopaudio.github.io/DuckHunt/");
   }
 );
 
